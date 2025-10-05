@@ -2,8 +2,8 @@
 ### Roll No: CE22B083
 
 Contains
--- Assignment 5.ipynb: contains code of the assignment
--- README.md - Description of the repository
+- Assignment 5.ipynb: contains code of the assignment
+- README.md - Description of the repository
 
 # DA5401-A5-Manifold-Visualization
 
